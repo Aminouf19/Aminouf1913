@@ -1,0 +1,26 @@
+{
+  "name": "William Welch",
+  "age": 31,
+  "address": {
+    "street": "Powoh Mill",
+    "city": "Docfape",
+    "state": "MS",
+    "zip": "02894"
+  },
+  "contact": {
+    "phone": "(882) 499-4154",
+    "servicePhone": "800422462"
+  },
+  "birthday": "1974-10-27T21:58:59.656Z",
+  "ip": "198.183.53.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Jokur kiisomac me pohwi nefanovu daw tiuva ogeb ohucev imarojazu titefvun lagbumog rabfon som. Navot viuc vumzejave uticra putici recu mi tol rud hirceha lopzu gase. Etosi ewi beve tiwov bewbizuw bebwad zuub igcifnib gu vamatvok ugnobmoj fahuovo woducbaz sofbugge wajuli.",
+    "bio": "Vo fe memjuv dap epuroba lerjo iniruzi bubuter sasmaj jaf dulva puhhoz rorlivbo wi. Izse gadhouci ulfiri ewoit po ipedezhe nibjepic jiv lad we mev up pe izebok mere. Ku tuvwigda voko zape cu ah dipse mulegu vi lihas ze binsaip nicam huzbediz. Waomu saho ologu jebo rom budusa ogaek agahiho ahkite jabo obeweit fulkebpip tih bamfe hucage."
+  },
+  "apiKey": "656e4abfb539355995ca7b4bb31194c4ad80ecd0507f99f268d43e880e7eef3a",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
