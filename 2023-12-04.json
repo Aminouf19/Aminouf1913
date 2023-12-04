@@ -1,0 +1,26 @@
+{
+  "name": "Shane Robertson",
+  "age": 29,
+  "address": {
+    "street": "Acila Square",
+    "city": "Micivu",
+    "state": "NE",
+    "zip": "77091"
+  },
+  "contact": {
+    "phone": "(232) 592-1554",
+    "servicePhone": "800736417"
+  },
+  "birthday": "1990-12-06T16:36:02.461Z",
+  "ip": "77.138.149.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewu livoca sijne comwum etiraozi ucezoh onfe emiit ej mucvuwvu ro gide afehil ecivos ra ivewo. Nobaz lomsamal av gorseel enu fikeb fagij wufujig ner hotot piswitog ki. Irijun zegebgo fi noer iwe idfedok ehe ninbisku fi uba nellap sadpulzib navzi sejpiwlac. Ahowezgu zekukemi medvo kibaho zajgi icci tobcipeh su falam pikel madev pam ma ocok got.",
+    "bio": "Ubuuvi uro buva fa rul cira hicem cosasu fig kevlew lab jujwuugo. Dehvakemi or tilra wubkop opficrec hef cu tabucib orivuw terolsu sisosal co bez dutulizi sedte dimti. Va vakdat jucug focesepeh sac zuz awa dosderpe levapkon tu ap ti."
+  },
+  "apiKey": "03d05781447a5843f6ac8b5c3c352b29607d6a80923a46742cbba9a6843cc2be",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
