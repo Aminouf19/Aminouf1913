@@ -1,0 +1,26 @@
+{
+  "name": "Sophia Schwartz",
+  "age": 49,
+  "address": {
+    "street": "Burlok Loop",
+    "city": "Kesewhos",
+    "state": "CA",
+    "zip": "04409"
+  },
+  "contact": {
+    "phone": "(241) 711-8327",
+    "servicePhone": "800856542"
+  },
+  "birthday": "1965-02-14T22:23:41.367Z",
+  "ip": "236.52.105.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahurul ukiv ehina lof pulujhef ze kalorro sud okpiori siz ta josvu hupihir jujim lev dooto giwafvon. Rutaknip wofewkic keg cuepaup ubeuhmac casrachi emlad tuwuno hanon zam no kuzep zam kirul. Zurkeoc miz wenu zuf ofi bi ihomib zurro lirjallac lovfa famud liddipza.",
+    "bio": "Fezagu ke do ki sun zadusova lumam lo ivaerga wipte vej adbo das ugmu hovce. Rubovu fajejju nijo acaw rartih ej lab kak wus koen we ajeki cidpoag zufmizis hojka. Ha zoz uv dip zib ufa igloleb kuc vazhe marogmof tap juk vati ze."
+  },
+  "apiKey": "3586405589fd0bfeec3fc8cfad8661617aba71bfd088854990f3843d57b810f7",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
