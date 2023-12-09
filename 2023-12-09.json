@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Aguilar",
+  "age": 20,
+  "address": {
+    "street": "Nebfed Road",
+    "city": "Nonafik",
+    "state": "CT",
+    "zip": "48651"
+  },
+  "contact": {
+    "phone": "(679) 204-6854",
+    "servicePhone": "800742555"
+  },
+  "birthday": "2006-11-04T17:23:40.987Z",
+  "ip": "89.58.11.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Di hum ezu veftadi ur rur cunhuzon fadarwu wu wiru tu ru iregog guzimhom li gofus tubikasid. Tejgi ahet vaj sapigef nezzor tup giovhih wev patovgas votkemi kun ze vazoel sotaz fezi duopjil. Pu wucriwel vokup gug zutetze isu rizolen hogceflu eraril pas neguvru voh livfe hahcobrog gokonmil pif diora. Kaccuwju gi vo jitisaw ataarik vun cejisaz toikzip wepin anab dijmak nuctawgiz pugi kavnone ote getor.",
+    "bio": "Itnas firave hi he vuzjitwuv oh kokkat owa ja ni niaza di wakosta fugrutlij bebi. Pefin gatbi ak keluzzo ad se diz ato refpiju punemruv rubkunkig liczu kego acno hazjoki teeh kiopizi. Saljew vo hif rumansal ine fahinu paecza se vaahmuv ipiju naji firire."
+  },
+  "apiKey": "51c756220e44c6433c61936d7aec286817c9521a3ce6022e76880aab3a2a4779",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
