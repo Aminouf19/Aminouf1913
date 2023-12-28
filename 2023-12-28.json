@@ -1,0 +1,26 @@
+{
+  "name": "Luis Hamilton",
+  "age": 26,
+  "address": {
+    "street": "Wuro Court",
+    "city": "Lajopnoh",
+    "state": "NJ",
+    "zip": "73732"
+  },
+  "contact": {
+    "phone": "(473) 746-9788",
+    "servicePhone": "800522253"
+  },
+  "birthday": "1965-07-24T12:07:55.218Z",
+  "ip": "74.123.24.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Hobkejlu de cumasluk ladwap hizpo fa tutiraz sovo lo comgic ul widkij bonko fa wizenret sofsovru ledju. Huh hazfiwzub kofopkuf vova gomuiza pulu ekiof bofce bik dew soiv ebemu. Lobo saoca gakce gous vijga mahouv huhleg fu vauhu ifobemaz voovbe rapsu si.",
+    "bio": "Roja sa gugsi tucidup hicekepi cepa onezokcig ricvimgok os unim ezjizbu nujvij buk purerbi tuguloko kobrumal kima ho. Kevtan vov bib bo ozijihip be kag hac nakeneb zujujdi rad vanviw cez tagakol poomfil bema awaave cofor. Ucaahude ofuno dajuw neus vungo rohuit duk sobzo gufsopge wow buomu hoffe tinviate inke. Retuise nof radpob japzeod ineha cowa teg kete dotipit noicaw arumokepa norut niuppa."
+  },
+  "apiKey": "5bb00eafb29ef9600e62f5a0e2fd5a585685c77e893215b59ae7029eb3f1da63",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
