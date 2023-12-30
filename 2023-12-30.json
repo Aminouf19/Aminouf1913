@@ -1,0 +1,26 @@
+{
+  "name": "Alma Jimenez",
+  "age": 58,
+  "address": {
+    "street": "Moto Ridge",
+    "city": "Dubauj",
+    "state": "NM",
+    "zip": "45002"
+  },
+  "contact": {
+    "phone": "(975) 570-4331",
+    "servicePhone": "800798858"
+  },
+  "birthday": "2001-09-09T15:35:23.165Z",
+  "ip": "53.214.153.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Nohgi ci so lomvedi bodu sumutiji lezar von tap zo utlav fuza uboga gusanuv. Junaane biulzu lobnan nazoluw ruadi nadi nirnobol wocwo na re arasisej iweiwo. Time kuwovu agu datej gehvujnu tatuwla offiton pegifevof be zaznidpo adtetoda pi ruaraku puzlabuna ce.",
+    "bio": "Hotdadoc sehokmu ze ru bij torozfi avuul hadceged ijemejnot ziipi ajpol pul parot. Azi wecdihim oni uzbif ragweh da bes sovna afuletfur fej ilifeg nadoja fel wuwba ni mepfa dofni bov. Hav hekalwud piwedpar befma miwan pizguoce wev maew uduanim anepihbu ga hukan da vihiterif gahim loef."
+  },
+  "apiKey": "b511beb58946cdd49c5186ec5d14d2194d36d54327a2878ec9505438614efa85",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
