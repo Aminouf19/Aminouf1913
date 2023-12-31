@@ -1,0 +1,26 @@
+{
+  "name": "Harry Floyd",
+  "age": 25,
+  "address": {
+    "street": "Atuti Lane",
+    "city": "Cohacdo",
+    "state": "MN",
+    "zip": "80420"
+  },
+  "contact": {
+    "phone": "(726) 703-4976",
+    "servicePhone": "800374557"
+  },
+  "birthday": "1992-07-30T14:54:26.718Z",
+  "ip": "128.77.207.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Nazgepe lalroan en ram henucjoz rol lodpuziw ijoka behrogev paj gol taj hobala fenotja vep iz dolumwoz. Jahhog dib fabirwic od ko ifefig lem ru uf huftu tetke uj. Fevje ame ko budigon susdu pibog lavwaw elhaz afaguzep hi nirpajga lo odukid te kodme ufa ugje babbo. Zab lojuf pi caameviz evlukwez ladika fizcet azsa zacagveh fiore nornewe jer wejziwe asgaca magowif dubmo ine ser.",
+    "bio": "Fisam sogu uf coibaaho zom ikmoih nujahe geer row uhmub ja roibi parza biasjig uli up dav. Avpipot godgi ceoz mido turur omodeh sopgo afaopoaho agadur gumub imi weki hit wic zut ihoded. Soj fetukdi gorzib zig obowe utzi ip jejfan sijjis mopad didbegoj ibepvo cet sazan uk. Vima doh la watuno cahkohe lo vucagtus jizunda hizleeju mehhev vazva guz koso. Mow ponmahdid hicak ka poni ba itejisovo soada hauze no milva ce ke zeifziv vawet gekifa."
+  },
+  "apiKey": "8b66984852d267b0c09e028629f41f1c680e585f12f8b6cd2d681fc40e5888da",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
