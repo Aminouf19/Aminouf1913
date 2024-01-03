@@ -1,0 +1,26 @@
+{
+  "name": "Ian Young",
+  "age": 35,
+  "address": {
+    "street": "Cefgar Lane",
+    "city": "Gudbahnes",
+    "state": "VT",
+    "zip": "13074"
+  },
+  "contact": {
+    "phone": "(846) 928-1220",
+    "servicePhone": "800651412"
+  },
+  "birthday": "1964-04-26T19:31:00.654Z",
+  "ip": "234.234.203.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke uhepi cubuec gugzid ekfiz facguzoze rah liw cigfabob ota opewusceg hihreg. Baki loz fu erulon takmetani wawisuh ke wicdiv itvukvod be mosidavi be es vorivlek bu fa urigohud. Kelda hij udof sudera ri bisti aszakim sar sijcu bi gipopen sicdane nih ecogu tifowri aclear uvupi dad.",
+    "bio": "Os zadoho cortogig wag ulo hefofsi wodsiv pehvahgat imdi ecki ek hucahuc. Uwamob lakladnor hu hakugu votsez ilneka cekeppol ehegig kafuf lagtaclij pebu ra dojbajput fa kenvuwhol bi. Van viwdeh ji ciwsuih tohfo lob luj kuog favjeb ro vanulga agolom."
+  },
+  "apiKey": "a9e7cf920d41092faab4adaf4c6ac46971f90469c00737e4bff7e480e9f3c80c",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
