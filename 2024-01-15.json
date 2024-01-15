@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Watkins",
+  "age": 42,
+  "address": {
+    "street": "Pametu Avenue",
+    "city": "Cakivgu",
+    "state": "SC",
+    "zip": "02462"
+  },
+  "contact": {
+    "phone": "(624) 979-8230",
+    "servicePhone": "800728443"
+  },
+  "birthday": "1990-02-11T19:45:07.851Z",
+  "ip": "36.232.36.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Tigcitzaw omo cemata catab ku bihiwe rec gav milnukuso lomus gef nor zumew. Zukolara juakbo coziwiwa pu rirdu robow kuwig ipi nusziwvo vo wijloane ijair podo inuizo mesum ihsitag. Oppe emparo wo kumeza ha ji zebej fudegu nimeh rad jivif epacofge ca memsiela. Mantuspuj toj ce urtik ejatabe araatesoh supabnu mevvuspir tew tusnoz bojo suroko. Enilezup moluclab ej odso vengit wekigir vigodsew lo jifakaoka basana jizol zod enze paviske tejanu rakuwa. Ci gi zumop ef ek ag goj weet fedno bu ipelu dovwup vijli poketoka. Noc hu uhvakan nesdozo rogez ato od se jof ot zi luca pivsi.",
+    "bio": "Adatimfi hobsabop muerileb tasa mus sicsoga em cejiv lija wipmivsaw fokeada hadve haz iwadave lasnidul. Ojekecvi ra lepis ateca popezgu siwdi cep itwaovo adilije bibu vogo awvowkag sir ri. Jiw fuci uwu ibu cih jawa bubga pavdafez wivne rifob mosuj feji wo. Dur bura lare vojupor ujeotizos diuda ronroluh curorro pukolu hovsopa wu ludrap wajsep jane ve zal uwkewu leesa."
+  },
+  "apiKey": "d3fbda5fe89723e19abdaed9ed953cbcb7e798724b6db6b3acd73e3bc37a0866",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
