@@ -1,0 +1,26 @@
+{
+  "name": "Jon Harmon",
+  "age": 42,
+  "address": {
+    "street": "Jarji Road",
+    "city": "Iloleom",
+    "state": "ND",
+    "zip": "16814"
+  },
+  "contact": {
+    "phone": "(478) 529-1287",
+    "servicePhone": "800362561"
+  },
+  "birthday": "1982-02-25T09:24:46.233Z",
+  "ip": "9.143.112.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Ew gipkit cihne kej tekifa weg ilkow hizovgo sujejbu binrehu epeubeso hardonif fot buk omnis vomier korfimom se. Vawiki agagsu cefes ca rup ram pedezopi baod ci gev sierhi udeiwca peg rawza fu er. Bomfagi nurec locunvuz vosehej an mikbap macvera fituve mu egraznow cacegom nufsihwav zud ner deshiumo veliubi hu. Wifiwa rebhofuz rusogwoc oza vompam ipabuva ha jo ew wihozvi livorte jiza guide so amjevub gec notcidrif ni. Wicib zer midovvun sevot setzo fumgod lutdu koni loplirle vuvab asbi sitde piwkac ta jozne mez gioczap.",
+    "bio": "Rumbu lam pa cac ugigotu lof wekiwfu bi siiki wa pohroplar ec ipejir lasmub al iz vat. Laavpug ubi wupi bavunzoj johacer ezula beraji oh effurki lavuva zadwopeb redvihu. Up sarokitip ub iz dizun efmeta gamsiw wuduz dih ba ol sataze fuva asu."
+  },
+  "apiKey": "a791b7e2b585c688623582223b49b5071b70fc19ff26765e11f848610981ab8e",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
