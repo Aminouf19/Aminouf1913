@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Black",
+  "age": 30,
+  "address": {
+    "street": "Vazgi Way",
+    "city": "Otsuwi",
+    "state": "OK",
+    "zip": "90902"
+  },
+  "contact": {
+    "phone": "(667) 414-7582",
+    "servicePhone": "800264544"
+  },
+  "birthday": "1981-12-12T17:11:59.666Z",
+  "ip": "178.115.241.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Fid bustoptaj emode tunokuja koag owi ura osepiri kuw zuwatabo eka pohbob ro dowiem. Hobampar hunze ni nus jojejdas uri anrewti pi hegris up deg pemeh. Zolwag fefleul kollo ruvzi witod fagozmum ko hut vaeci luwgojki zeje nusfi eho menu benduvsut bugdo zupe. Ji nijomlu gaveiko uc gem nicpage ehu sicariib urafupo godpez tevmo nahuimu sa.",
+    "bio": "Mapkos tueszav sopne jahnen muh kijet vahevus loceuj vezcuvjiv faakpu lajce ifi giwko. Hufasje etle pok si ven ifis apuhate wuskeate dehobi akudu muba nocjeme ahi kap upvi. Pom ejuhuf decos bijnizkih jil oflo pemikad tadevut getajkuc wahu tiguc ockas kihok fabic vopig ekawi."
+  },
+  "apiKey": "c46fd529cf62f30c2db33869dbb0714e2f0ae4e1a5221af71bcee92342046a5e",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
