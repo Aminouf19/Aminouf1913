@@ -1,0 +1,26 @@
+{
+  "name": "Carl Rodgers",
+  "age": 20,
+  "address": {
+    "street": "Atuol Place",
+    "city": "Ikazihivo",
+    "state": "KY",
+    "zip": "82701"
+  },
+  "contact": {
+    "phone": "(719) 407-5177",
+    "servicePhone": "800943514"
+  },
+  "birthday": "1985-04-26T13:22:49.656Z",
+  "ip": "128.92.28.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Nod rojja nune me po hiwesu iso takeri tagipe nam lar vekzarod joni eg warfo hewsu. Acok bejli jik edenuc ukun norpu ejfoju wabiaw dabuj zo naredahi or izduna baccuz ite. Visve ruktadum zukucen vukana ca nul ferzi esi uvnu mubajif kizepu hadapniv ja jic varcez bip pefnahmap lovivca. Falen ve mowsi edu jekevaj let mopdabmu devniz jo ohuab melikmoj ah medidakul.",
+    "bio": "Uk zu ov cemak ledguzfe sig rik ri sog ogi onnirag rane aga otzi hos cet. Pagezihi ceze ucfoj ifpisaca bokuniw hockaz dure dedes wumuk ucbamah valaceju kal secaora vilge sewovazih livilre. Urpocvo neobo ap av julevi ezakare zepote jamluah umzozsof zokeguri mezen bamwu urupe heovi hur ibe sokagu. Bi zoub lehageko ri gujjic siv zi vusiva cicodet igubu zezbiihi fe li noz hokli wiler. Hudak tolvijje ub ok ubaka fe bejcorir oj rekuvpo set usa meodpi na munemal. Awinvi ov vod jageb ewmecjid zig nenmiw vuteha lekgaaf duttugof ibop zovete sog at torolu."
+  },
+  "apiKey": "2c2cbad8c1568aa6677fe0484f21298a2e3cd7a008e9ea5e9c8e6dd7cfc6dec7",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
