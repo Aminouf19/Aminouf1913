@@ -1,0 +1,26 @@
+{
+  "name": "Herman Webster",
+  "age": 30,
+  "address": {
+    "street": "Azomu Grove",
+    "city": "Wumimov",
+    "state": "KY",
+    "zip": "33003"
+  },
+  "contact": {
+    "phone": "(781) 898-1344",
+    "servicePhone": "800988515"
+  },
+  "birthday": "1968-11-04T22:08:10.504Z",
+  "ip": "152.141.176.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibu dagkeku fohwa faug bolpipo ihi durogtav rahekoodo da majvu to dunhahu pimirru somgecow pulifpi uwwe geiwmo. Pamepeco mit lilluznoj pizublo wa hu luzadfej nub iga ek loep adka. Nozuhpew ili isnetfar da nasotaga dinumgi vucar gatapwuw juumcab go ac vo tewlogpa dokri uw itriz un.",
+    "bio": "Wibamu secomiw num warowlel vighead caulama muv bag wokiri wibig rug jurfafpa zul. Dowun wocebifa pufesaw fehmiv vive fuvoj rozrop ide zadfedez fevof cokefzi nata ce ewgasoz. Mokranran sozpofife nabnu muono lit manbem az seesi suhombun nujme nu boz esho buelevu lav coofufi ojo wotomi."
+  },
+  "apiKey": "0bbe5505b888f06ee6a6ac14f7c520b5fac2d823092db99ccd9ff5b460e57723",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
