@@ -1,0 +1,26 @@
+{
+  "name": "Bill Scott",
+  "age": 30,
+  "address": {
+    "street": "Badec Court",
+    "city": "Hadorkag",
+    "state": "NM",
+    "zip": "85430"
+  },
+  "contact": {
+    "phone": "(269) 383-7609",
+    "servicePhone": "800991331"
+  },
+  "birthday": "1999-05-14T14:46:15.991Z",
+  "ip": "167.123.161.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Emuutfav mov udteksug ger demku wababok netiop nigka feco suazwo arfij osa podazsef seduz. Diagvez seavuahu hufaze foogogor edna raldagu fuh kozeli nainuc odzoure uvse jokev. Emi kozuwfol ofeb hitnuv je fevdeb zasawji enuwala udu te ov elomo wag netri sos. Hoeb cuwo mu puh go surjo wilgirut vidivi gestasot gelkufe te fup ku.",
+    "bio": "Zuwe sipas fivhu vikahboj rekrivu ki imicioz ejabez we haceho rawos zodevureb. Efi loninoza ca lajno wacen taljalom agicasij pe zowah gamefe an sesumebo du. Sin lirpeese anse wofvaf hipcuuko ul megtagtev melmim mifil nekivo cujla mapdiw ogozto vafmat."
+  },
+  "apiKey": "c7dc0bf66671ea87766b35685264d1dd03a691bc1ba23c429cf65cc3c3651104",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
