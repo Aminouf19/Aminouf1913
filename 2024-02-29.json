@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Hale",
+  "age": 62,
+  "address": {
+    "street": "Mecsa Drive",
+    "city": "Ihorellot",
+    "state": "PA",
+    "zip": "98207"
+  },
+  "contact": {
+    "phone": "(348) 559-4295",
+    "servicePhone": "800687462"
+  },
+  "birthday": "1993-12-31T02:22:02.200Z",
+  "ip": "66.244.249.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ciravet ca zepzezhad fensar johof hem uwi gisizovib ev fe loizre su ma. Hih gerca mamdisa puzsowam zioz asule liruvbam tusfaco wa jukzu ijiweg uwfe kiver dueke gap lezci. Moh jes tawci donnum bagisow iduhorig zavouh voulu jov espi nibah les jo giw vojupwa sosuf vuda maj.",
+    "bio": "Porgo atozu abi zogodvit jiw raiwzu dod uhikazo tu wuur ce li dolarafus pit vobcus gid. Loso mur usop pitobaj zag ekaot ov is kadecafa voti ruik zuzmojag onac itniw jelesi sockoepi da je. Lo solaw palawed cewojoh asle deknidi hagsoaj osi betdu wazel tevob ve kulsu."
+  },
+  "apiKey": "1d6ca7b308fadfd27fd02a8550b964c91fe58ef649b9b3b54094c97efbcb7776",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
