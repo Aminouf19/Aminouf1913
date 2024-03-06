@@ -1,0 +1,26 @@
+{
+  "name": "Harold Payne",
+  "age": 48,
+  "address": {
+    "street": "Ipuge Street",
+    "city": "Ihlopa",
+    "state": "FL",
+    "zip": "91938"
+  },
+  "contact": {
+    "phone": "(263) 867-1074",
+    "servicePhone": "800985557"
+  },
+  "birthday": "2004-08-30T07:18:52.259Z",
+  "ip": "244.61.2.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa pi sako senu tozme lekejit tokevo enwozmil banuz mu sucuhire falino cavuv rosma jopen zegdi wiwke. Miusi orlobhur jahow acuja joglen suncese jalukutan goefdi marit bobkase dijasev mukufez aceubmoj. Kijiw va hiuco wisomko pohepbo iclokfov umlos atore ulveb moijpu suj ne za rilec rinki va zi.",
+    "bio": "Ife oreiz fah puureoce go boimu mapre cuf vu rezic cetgeb ehiilmah okioc zuwi so mijlu ti pizgoglon. Dib wu melhoju ubu teb zal dugip vaplek fivtitto duipopu va vudcepzos ovmoj gibwoh hawa. Ne aj pa go wapej kivtugsok ci fuvkic ut ifaguipu udearilu awal. Johvat kecup gatagneg dazsa dedmefnoc sum cenezra zabdo sal cilus oneuteowi agoefgaz imo cicut."
+  },
+  "apiKey": "dabb6bb62cb563e6225dacd00954632ecc3b3709f66e3da255f4fce54953a476",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
