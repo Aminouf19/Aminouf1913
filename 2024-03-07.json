@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Schmidt",
+  "age": 45,
+  "address": {
+    "street": "Rugfaw Center",
+    "city": "Mazmales",
+    "state": "RI",
+    "zip": "91896"
+  },
+  "contact": {
+    "phone": "(410) 640-9117",
+    "servicePhone": "800527143"
+  },
+  "birthday": "1967-12-31T07:50:18.205Z",
+  "ip": "19.95.239.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Pisur of ga owitare igah mem gas toarazu fab ihura ikoba fegtari wo. Pos wat zemisi uzoav ruw mubuwzo eh ganambit jin fece fojecimem zetbo zes bel. Asazi cejju win suehvo zitin ud pah bi hijes uji diro guuh.",
+    "bio": "Zemi vihtisi ote ige pelir ocoohbeb obti idoata apuope fuglon mopa sur iti. Zotkiedo cogbij eri on zemeca ogcaoh mi lafri fohar dabheb pimnoh naec fatzo. Ikoreznu ku tuskev igafe anaba vir vozu galonak cael jiti cuzun falu akgadom mu. Filaguso liohiir lupnezi petjerfi ivo tak cov kufi vulwo joda nosabibuj lebem ani nojuzivek mot. Zen pipocufef onzoeno vu ohuzer lu zadnubtok bedlo wim ogbonheb hatog kiic ipe li odoote pu."
+  },
+  "apiKey": "1b502cd1f0f1aa1449748852a82d1af00b6ea19ebb251ec3c73f23ffe9483e4f",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
