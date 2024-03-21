@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Wilson",
+  "age": 25,
+  "address": {
+    "street": "Erowaj Boulevard",
+    "city": "Cihabuv",
+    "state": "VA",
+    "zip": "93021"
+  },
+  "contact": {
+    "phone": "(409) 324-1322",
+    "servicePhone": "800764612"
+  },
+  "birthday": "1959-10-08T18:59:17.045Z",
+  "ip": "72.126.39.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Jer duvukpa akabo gik fu dop uficisi vonidi tedabfo daja feha uzacatet ardeewo. Guwlose ras ma fe wi gu hovumze muw niwujo zic wullepmut owkomugu fa. Sunazhu repvif caru wacasa iw keav pijmoj wojavo ramasok so ajeruwciw nociwmo eme vuce ted zi fur.",
+    "bio": "Denurhe heggin cewsoh ij lu hiiwo nej nokopbis hi ucaahulam limulup igwun pikazpe teuhago ruh het darmujaba. Cirmutru sospabju pot secigsu givfuber eto odedi mokis zikicafa irni higkoip ujatucofo ufe. Dozempuz puwedo bap cuhovbi omiruc efisomaf furor peesomat robip maf ke oli coraji. Laereven omcuhuv hebadsis reh cika lu ug pignejude ciw afleh okmel umuhekoc. Zettif bu sazijodif usaru lobias wu javawac setik ur viil ri tabel. Rozaew copmujug hives kikfo sejbaupi zecfegrut vu pa wif siri mobowle haf womaste nepuku witwivo. Cawav vuaseofe oco zijih belukfih wodzus ewu duf jaride si pa hotjavdat job pirpu hidoh fezja ow."
+  },
+  "apiKey": "fdeb402bd59d010a16376a6d506099ede3cdabde1cedc49ac8edd8e42064e60d",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
