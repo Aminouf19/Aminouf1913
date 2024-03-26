@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Jenkins",
+  "age": 37,
+  "address": {
+    "street": "Suvli Road",
+    "city": "Vibais",
+    "state": "SC",
+    "zip": "11696"
+  },
+  "contact": {
+    "phone": "(437) 988-3222",
+    "servicePhone": "800859813"
+  },
+  "birthday": "1967-09-08T21:12:34.989Z",
+  "ip": "231.235.90.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Si kizjaw dekci sav jel lug vi he vangoguro bi uhudaw irapal vowjo fiv irego winzewi dumgogaw. Vam urejib asu hig gaegimal estolgi unpahazo wacrovva gu gugi seeza kofelva ejdotcul isko gojbupabi ad len. Oli nonsu ijvaf miccopzir tutectul op jadvajor lalu zaj vimah worhupe eruhe covok duh loobeeli rewoto gijedi. Mupolo ha nomtoov hawor owuawu retib wecopsap sofupu if jusegaj zono aceligbel etsoh ho pi. Wuvdodsi helet semuwos puha buzbaf des ileg labgehkec dukedsas waw do vekkeseh et howhacvap. Zaj wal gopgepbi uva bokesfu ase ujo atime zotahar iwiwih ru cu ro umidet mezatfim ledwelpaz suga. Fe gimitla gudga sipur jobero lum dekeda biz dac tununu cami bicepsi va emeva.",
+    "bio": "Ocveb zifowsod odnucda dujapo ko idebijih olu uvatifkuv edomocu hi tu aze ezanovzo sir omler wabbaet mic busdo. Azmivzaf pes rusodhib evvibza cecectuw gudgih iv sieda popzovi kapmobki ute dapek zine azier kafuvej fuivias uhtual. Hosef usiane kifkig ho abo go de henuve gigfawub gatwel cebro fahefoco. Bavfoos civwe libno ginjur cewmorce bupamra ragek rir ipuke onera kimiride mucaoso rah jotdegan boj zod resrivmih. Uhokiro pu bukorci buob mezer jal jo ganuse loz ibehokok pepvovgu puru zebwe aheoloet."
+  },
+  "apiKey": "20ee7d6533264005b3c4b7eb1ecce395aba92a3696c4612916dfa8b0f285d958",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
